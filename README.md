@@ -1,2 +1,2 @@
 # CRUD-ASP-Core-Angular
-CRUD ASP.NET Core API with Angular
+CRUD App -  ASP.NET Core API with Angular
