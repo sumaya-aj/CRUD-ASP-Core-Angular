@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace PaymentAPI.Models
 {
-    public class PaymentDetail
+    public class PaymentDetails
     {
         [Key]
         public int PaymentDetailID { get; set; }
