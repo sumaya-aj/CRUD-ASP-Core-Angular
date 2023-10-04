@@ -14,6 +14,7 @@ namespace PaymentAPI.Models
         [Column(TypeName = "nvarchar(16)")]
         public string CardNumber { get; set; } = "";
         
+        // mm/yy
         [Column(TypeName = "nvarchar(5)")]
         public string ExpirationDate { get; set; } = "";
         
